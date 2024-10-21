@@ -1,11 +1,7 @@
-# Sandboxels
-A falling sand simulation game.
+# Unblocked Sandboxels
+Not made by me
 
-Play at [Sandboxels.R74n.com](https://sandboxels.r74n.com/).
-
-Join the [Discord server](https://discord.com/invite/ejUc6YPQuS).
-
-![Landscape made in Sandboxels](https://raw.githubusercontent.com/R74nCom/sandboxels/main/icons/wallpaper.png)
+Play [Here](https://briphead.github.io/sandboxels).
  
 # Controls
  * Left Click = Draw pixels
